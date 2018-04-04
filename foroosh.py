@@ -12,7 +12,7 @@ sys.setdefaultencoding('utf8')
 
 HOST = "localhost"
 USER = "root"
-PASSWORD = "1377458"
+PASSWORD = "..."
 DB = "foroosh"
 
 def on_chat_message(msg):
